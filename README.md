@@ -1,0 +1,2 @@
+# Arsenal-cheat-script
+アーセナルのチートスクリプト
